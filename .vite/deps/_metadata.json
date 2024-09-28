@@ -1,0 +1,70 @@
+{
+  "hash": "e108a7db",
+  "configHash": "a26c2a27",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "7514508e",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "4554ae45",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "2c170b03",
+      "needsInterop": true
+    },
+    "react-hook-form": {
+      "src": "../../node_modules/react-hook-form/dist/index.esm.mjs",
+      "file": "react-hook-form.js",
+      "fileHash": "c1c05d8f",
+      "needsInterop": false
+    },
+    "react-icons/fa6": {
+      "src": "../../node_modules/react-icons/fa6/index.mjs",
+      "file": "react-icons_fa6.js",
+      "fileHash": "f210e2cb",
+      "needsInterop": false
+    },
+    "react-icons/fi": {
+      "src": "../../node_modules/react-icons/fi/index.mjs",
+      "file": "react-icons_fi.js",
+      "fileHash": "96bec95c",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "d90378c4",
+      "needsInterop": false
+    },
+    "react-select/animated": {
+      "src": "../../node_modules/react-select/animated/dist/react-select-animated.esm.js",
+      "file": "react-select_animated.js",
+      "fileHash": "dbfee613",
+      "needsInterop": false
+    },
+    "react-select/creatable": {
+      "src": "../../node_modules/react-select/creatable/dist/react-select-creatable.esm.js",
+      "file": "react-select_creatable.js",
+      "fileHash": "dd19769f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5MEYHFIC": {
+      "file": "chunk-5MEYHFIC.js"
+    },
+    "chunk-QPG7G3M7": {
+      "file": "chunk-QPG7G3M7.js"
+    },
+    "chunk-YS7ZXTDS": {
+      "file": "chunk-YS7ZXTDS.js"
+    },
+    "chunk-UTEJFLXC": {
+      "file": "chunk-UTEJFLXC.js"
+    }
+  }
+}
